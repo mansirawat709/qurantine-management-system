@@ -2,13 +2,19 @@
 **Quarantine Management System implemented in c++.**
 
 ## Project Author
-**Avinash Kumar Jha**
+**Mansi Rawat**
 
 ## **Aim**
-The aim of this project is to build a Quarantine centre management system  which works on the entries given by all the visited persons and retrieve the details based on query.
+The aim of this project is to build a Quarantine centre management system which by taking in user data and resolve queries based on the retrived data.
+
+## **breif description**
+This project uses the the basic and important concepts of c++ and object oriented programming to implement the basic structure of qurantine centre management.
+It's important functions are room allocation to the user, segregation of users into classes like covid positive and covid negative based upon the data provided by them.
+Uses the important STLs to create data-structures and various algorithms of our own to make it more efficient and fast.
+
 **This project uses almost all the important concepts of c++ and Object Oriented Programming to manage the Quarantine centre in a best possible way.**
 
-## Project Structure and Implementation Overview ##
+## Project Structure and Implementation Overview :  ##
 
 ### main - contains the body of the program,used to perform all the operations on the entries.
 ### Person.cpp - contains *Person* class.
@@ -20,6 +26,6 @@ The aim of this project is to build a Quarantine centre management system  which
 ### room_check.cpp - search for all the rooms.
 ### room_check.h - contains headers of the *room_check*.
 
-# Thank You!
+## thank you for reading!
 
 
